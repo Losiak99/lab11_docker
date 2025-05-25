@@ -1,0 +1,6 @@
+192.168.65.1 - - [25/May/2025:21:49:43 +0000] "GET / HTTP/1.1" 200 70 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" "-"
+192.168.65.1 - - [25/May/2025:21:49:43 +0000] "GET /favicon.ico HTTP/1.1" 404 153 "http://localhost:8081/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" "-"
+192.168.65.1 - - [25/May/2025:21:49:43 +0000] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari" "-"
+192.168.65.1 - - [25/May/2025:21:49:43 +0000] "GET /apple-touch-icon.png HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari" "-"
+192.168.65.1 - - [25/May/2025:21:51:29 +0000] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" "-"
+192.168.65.1 - - [25/May/2025:21:53:12 +0000] "GET / HTTP/1.1" 200 70 "-" "curl/8.7.1" "-"
